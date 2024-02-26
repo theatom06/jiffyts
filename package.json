@@ -1,0 +1,31 @@
+{
+  "name": "jiffyts",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "main": "dist/index.js",
+
+  "type": "module",
+  "scripts": {  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.11.20"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "author": {
+    "email": "steve.alappat@gmail.com",
+    "name": "Gandalf",
+    "url": "https://github.com/theatom06"
+  },
+  "license": "SEE IN README.md",
+  "keywords": ["jiffy", "bun", "light", "server", "express", "theatom06", "atom06", "quick", "Gandalf", "framework", "jiffyTs"],
+  "bugs": {
+    "url": "https://github.com/theatom06/jiffyts/issues"
+  },
+  "homepage": "https://github.com/theatom06/jiffyts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theatom06/jiffyts.git"
+  }
+}
